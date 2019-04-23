@@ -1,0 +1,9 @@
+Username: SM8c8SyFZ2
+
+Password: oHDKvcmnxd
+
+Database Name: SM8c8SyFZ2
+
+Server: remotemysql.com
+
+Port: 3306
